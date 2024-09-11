@@ -3,17 +3,14 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+    
+<class name="Project1_Amazon_test.TestCase2_login"/>
+  
+<class name="Project1_Amazon_test.TestCase5_product"/>
+     
+<class name="Project1_Amazon_test.TestCase7_productdetails"/>
       <class name="Project1_Amazon_test.TestCase8_sorting"/>
-      <class name="Project1_Amazon_test.TestCase1_registration"/>
-      <class name="Project1_Amazon_test.TestCase6_filters"/>
-      <class name="Project1_Amazon_test.TestCase2_login"/>
-      <class name="Project1_Amazon_test.TestCase9_addCart"/>
-      <class name="Project1_Amazon_test.TestCase10_quantity"/>
-      <class name="Project1_Amazon_test.TestCase7_productdetails"/>
-      <class name="Project1_Amazon_test.TestCase4_profile"/>
-      <class name="Project1_Amazon_test.TestCase3_login_incorrect"/>
-      <class name="Project1_Amazon_test.TestCase5_product"/>
-      <class name="Project1_Amazon_test.TestCase11_checkout"/>
+  
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
